@@ -1,5 +1,5 @@
 # yii console command
-/yii
+#/yii
 
 # phpstorm project files
 .idea
@@ -30,4 +30,4 @@ phpunit.phar
 /phpunit.xml
 
 # svn
-/.svn
+.svn
